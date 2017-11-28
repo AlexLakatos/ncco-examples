@@ -2,6 +2,6 @@
   {
     "action": "talk",
     "voiceName": "Chipmunk",
-    "text": "Good morning hackers. This is Chipmunk. I am created with Nexmo Voice API! So glad I could talk to you this morning. Happy hacking!"
+    "text": "Good evening. This is Chipmunk. I am created with Nexmo Voice API! So glad I could talk to you this evening. Hope you enjoyed the pizza and beer!"
   }
 ]
